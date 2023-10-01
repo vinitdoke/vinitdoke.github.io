@@ -1,11 +1,10 @@
 ---
 layout: page
-title: project 1
-description: a project with a background image
+title: Automatic Speech Recognition
+description: Machine Learning Internship at Pinnacleworks Infotech Pvt. Ltd.
 img: assets/img/12.jpg
-importance: 1
-category: work
-related_publications: einstein1956investigations, einstein1950meaning
+importance: 2
+category: Internships
 ---
 
 Every project has a beautiful feature showcase page.

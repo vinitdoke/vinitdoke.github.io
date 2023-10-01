@@ -1,4 +1,4 @@
-- title: General Information
+- title: General
   type: map
   contents:
     - name: Full Name
@@ -6,12 +6,25 @@
     - name: Date of Birth
       value: 18th March 2001
     - name: Languages
-      value: English, Marathi, Hindi
+      value: English, Marathi, Hindi, French (Beginner)
 
 - title: Education
-  type: time_table
+  type: nested_list
   contents:
-    - title: (B.Tech. + M.Tech.) Inter-Disciplinary Dual Degree 
-      institution: Indian Institute of Technology Bombay, Mumbai
-      year: 2024
+    - title: M.Tech. in Electrical Engineering 
+      items:
+        - Specialization in Solid State Devices
+        - Department of Electrical Engineering, IIT Bombay
+        - Expected Graduation - 2024
+    - title: B.Tech. in Engineering Physics
+      items:
+        - Department of Physics, IIT Bombay
+        - 2019 - 2023
+
+- title: Note
+  type: text
+  contents: 
+    Refer PDF for more details.
+
+
 

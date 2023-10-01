@@ -1,10 +1,10 @@
 ---
 layout: page
-title: project 2
-description: a project with a background image and giscus comments
+title: Experimental Research Internship
+description: Automating Pump Probe Spectroscopy at UBC, Vancouver under Prof. Ziliang Ye
 img: assets/img/3.jpg
-importance: 2
-category: work
+importance: 1
+category: Internships
 giscus_comments: true
 ---
 

@@ -2,10 +2,10 @@
 layout: page
 title: Projects
 permalink: /projects/
-description: Some of my projects -
+description: Some of my experiences in Academia and Industry exploring various fields in Electrical Engineering, Physics, and AI.
 nav: true
 nav_order: 2
-display_categories: [work, fun]
+display_categories: [Internships, Research, Course Projects, Others]
 horizontal: false
 ---
 

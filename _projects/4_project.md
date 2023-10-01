@@ -1,10 +1,10 @@
 ---
 layout: page
-title: project 4
-description: another without an image
+title: Dual Degree Thesis Project
+description: Currently working on my thesis on Ferroelectric FET-based Neuromorphic Hardware for applications in Deep Neural Networks.
 img:
-importance: 3
-category: fun
+importance: 4
+category: Research
 ---
 
 Every project has a beautiful feature showcase page.

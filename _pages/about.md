@@ -19,6 +19,13 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-I am a final year (5th) student at IIT Bombay pursuing an Inter-Disciplinary Dual Degree in Electrical Engineering (M.Tech.)
-and Engineering Physics (B.Tech.). I am currently working on my thesis under the guidance of Prof. Udayan Ganguly on developing
-FeFET-based neuromorphic hardware for DNN Acceleration.
+I am a final year (5th) student at [IIT Bombay](https://www.iitb.ac.in/) pursuing an Inter-Disciplinary Dual Degree in Electrical Engineering (Specialization in Solid State Device) and Engineering Physics (B.Tech.). Currently, I am working on my thesis on Ferroelectric FET-based Neuromorphic Hardware for applications in Deep Neural Networks.
+
+
+## Research Interests
+
+- Nanoelectronics
+- Semiconductor Devices and Physics
+- Neuromorphic Computing
+- Machine Learning and Deep Learning
+

@@ -1,11 +1,11 @@
 ---
 layout: page
-title: project 3
-description: a project that redirects to another website
+title: Graphene-based Energy Harvesting
+description: Summer Undergraduate Research Program (SURP) at IIT Bombay under Prof. Bhaskaran Muralidharan and Prof. Ashwin Tulapurkar
 img: assets/img/7.jpg
 redirect: https://unsplash.com
 importance: 3
-category: work
+category: Research
 ---
 
 Every project has a beautiful feature showcase page.
