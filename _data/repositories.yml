@@ -1,12 +1,4 @@
-github_users:
-  - torvalds
-  - alshedivat
-
 github_repos:
-  - alshedivat/al-folio
-  - twbs/bootstrap
-  - jekyll/jekyll
-  - jquery/jquery
-  - FortAwesome/Font-Awesome
-  - jpswalsh/academicons
-  - mathjax/MathJax
+  - vinitdoke/Graphene-based-Energy-Harvesting
+  - vinitdoke/Pump-Probe-Spectroscopy-GUI
+  - vinitdoke/Game_of_Flies
