@@ -1,12 +1,17 @@
 {
   "basics": {
     "name": "Vinit Doke",
-    "image": "",
+    "image": "/assets/img/prof_pic.jpg",
     "Institute Email": "190260018@iitb.ac.in",
     "personal email": "vinitdoke@gmail.com",
     "phone": "(91) 9764004022",
     "webpage": "vinitdoke.github.io"
   },
+
+  "sample": {
+    "name": "Vinit Doke",
+    "email": ""
+  }, 
   
   "education": [
     {

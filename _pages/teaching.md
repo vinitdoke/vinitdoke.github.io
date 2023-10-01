@@ -1,12 +1,11 @@
 ---
 layout: page
 permalink: /teaching/
-title: teaching
-description: Materials for courses you taught. Replace this text with your description.
+title: TAship
+description: Courses I have TA'd for -
 nav: true
 nav_order: 5
 ---
 
-For now, this page is assumed to be a static description of your courses. You can convert it to a collection similar to `_projects/` so that you can have a dedicated page for each course.
-
-Organize your courses by years, topics, or universities, however you like!
+1. EE325 : Probability and Random Processes, IIT Bombay, Autumn 2023
+2. BB101 : Introduction to Biology, IIT Bombay, Spring 2021
