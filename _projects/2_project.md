@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Experimental Research Internship
+title: MITACS Globalink Research Internship
 description: Automating Pump Probe Spectroscopy at UBC, Vancouver under Prof. Ziliang Ye
 img: assets/img/3.jpg
 importance: 1

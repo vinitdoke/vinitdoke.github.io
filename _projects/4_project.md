@@ -2,7 +2,7 @@
 layout: page
 title: Dual Degree Thesis Project
 description: Currently working on my thesis on Ferroelectric FET-based Neuromorphic Hardware for applications in Deep Neural Networks.
-img:
+img: assets/img/7.jpg
 importance: 4
 category: Research
 ---

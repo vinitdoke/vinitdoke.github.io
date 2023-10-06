@@ -19,7 +19,7 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-I am a final year (5th) student at [IIT Bombay](https://www.iitb.ac.in/) pursuing an Inter-Disciplinary Dual Degree in Electrical Engineering (Specialization in Solid State Device) and Engineering Physics (B.Tech.). Currently, I am working on my thesis on Ferroelectric FET-based Neuromorphic Hardware for applications in Deep Neural Networks.
+I am a final year (5th) student at [IIT Bombay](https://www.iitb.ac.in/) pursuing an Inter-Disciplinary Dual Degree involving a Masters (M.Tech.) in Electrical Engineering with a Specialization in Solid State Devices, and Bachelors (B.Tech.) in Engineering Physics. Currently, I am working on my masters thesis on Ferroelectric FET-based Neuromorphic Hardware for applications in Deep Neural Networks.
 
 
 ## Research Interests
